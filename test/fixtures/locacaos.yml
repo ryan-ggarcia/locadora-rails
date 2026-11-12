@@ -1,0 +1,51 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cliente: one
+  veiculo: one
+  usuario: one
+  loc_datareserva: 2026-11-12 11:16:49
+  loc_dataretirada: 2026-11-12 11:16:49
+  loc_dataprevista: 2026-11-12 11:16:49
+  loc_dataretiradaefetiva: 2026-11-12 11:16:49
+  loc_datadevolucao: 2026-11-12 11:16:49
+  loc_datacancelamento: 2026-11-12 11:16:49
+  loc_motivocancelamento: 2026-11-12 11:16:49
+  loc_kmretirada: 1
+  loc_kmdevolucao: 1
+  loc_valordiario: 9.99
+  loc_kmlivrediario: 1
+  loc_valorkmexcedente: 9.99
+  loc_valorprevisto: 9.99
+  loc_qtddiarias: 1
+  loc_valordiarias: 9.99
+  loc_valorkmextra: 9.99
+  loc_valormulta: 9.99
+  loc_valortaxacancelamento: 9.99
+  loc_valortotal: 9.99
+  loc_situacao: MyString
+
+two:
+  cliente: two
+  veiculo: two
+  usuario: two
+  loc_datareserva: 2026-11-12 11:16:49
+  loc_dataretirada: 2026-11-12 11:16:49
+  loc_dataprevista: 2026-11-12 11:16:49
+  loc_dataretiradaefetiva: 2026-11-12 11:16:49
+  loc_datadevolucao: 2026-11-12 11:16:49
+  loc_datacancelamento: 2026-11-12 11:16:49
+  loc_motivocancelamento: 2026-11-12 11:16:49
+  loc_kmretirada: 1
+  loc_kmdevolucao: 1
+  loc_valordiario: 9.99
+  loc_kmlivrediario: 1
+  loc_valorkmexcedente: 9.99
+  loc_valorprevisto: 9.99
+  loc_qtddiarias: 1
+  loc_valordiarias: 9.99
+  loc_valorkmextra: 9.99
+  loc_valormulta: 9.99
+  loc_valortaxacancelamento: 9.99
+  loc_valortotal: 9.99
+  loc_situacao: MyString

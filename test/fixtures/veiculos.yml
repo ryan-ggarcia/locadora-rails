@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  categoria: one
+  vei_placa: MyString
+  vei_marca: MyString
+  vei_modelo: MyString
+  vei_ano: 1
+  vei_cor: MyString
+  vei_kmatual: 1
+  vei_kmultimarevisao: 1
+  vei_situacao: MyString
+
+two:
+  categoria: two
+  vei_placa: MyString
+  vei_marca: MyString
+  vei_modelo: MyString
+  vei_ano: 1
+  vei_cor: MyString
+  vei_kmatual: 1
+  vei_kmultimarevisao: 1
+  vei_situacao: MyString

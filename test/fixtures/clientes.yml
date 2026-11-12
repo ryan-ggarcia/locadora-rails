@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cli_nome: MyString
+  cli_cpf: MyString
+  cli_email: MyString
+  cli_telefone: MyString
+  cli_datanascimento: 2026-11-12
+  cli_cnh: MyString
+  cli_cnhvalidade: 2026-11-12
+  cli_ativo: false
+
+two:
+  cli_nome: MyString
+  cli_cpf: MyString
+  cli_email: MyString
+  cli_telefone: MyString
+  cli_datanascimento: 2026-11-12
+  cli_cnh: MyString
+  cli_cnhvalidade: 2026-11-12
+  cli_ativo: false
